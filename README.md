@@ -1,0 +1,2 @@
+# SpeakBox
+SpeakBox translations
